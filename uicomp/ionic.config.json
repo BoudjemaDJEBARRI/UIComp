@@ -1,0 +1,7 @@
+{
+  "name": "uicomp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
